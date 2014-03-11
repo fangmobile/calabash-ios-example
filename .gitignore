@@ -23,3 +23,9 @@ DerivedData
 
 # CocoaPods
 Pods
+
+# ruby
+.ruby-version
+
+# bundler
+Gemfile.lock
